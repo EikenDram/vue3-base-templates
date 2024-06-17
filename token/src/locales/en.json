@@ -1,0 +1,28 @@
+{
+  "example": {
+    "subtitle": "{count} example"
+  },
+  "app": {
+    "title": "AppName",
+    "marked": "Admin",
+    "navigation": {
+      "home": "Home"
+    }
+  },
+  "login": {
+    "title": "Login to AppName",
+    "email": "Email:",
+    "password": "Password:",
+    "submit": "Login"
+  },
+  "form": {
+    "required": "Cannot be empty",
+    "submit": "Submit"
+  },
+  "404": {
+    "headline": "Whoops, 404",
+    "title": "Page not found",
+    "button": "Go back",
+    "text": "The page you were looking for does not exist"
+  }
+}
