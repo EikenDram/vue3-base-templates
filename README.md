@@ -1,4 +1,8 @@
-# Create vue3 + vuetify project
+# vue3 project template
+
+Vue 3 + Vuetify 3 typescript single page application
+
+## Create project:
 
 With `codepack enable`
 
